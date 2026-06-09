@@ -1,3 +1,9 @@
+# 100Hires Setup Task
+
+## Overview
+
+This repository documents the setup process completed as part of the 100Hires application process. The goal was to install the required tools, create a GitHub repository, document the process, and record any issues encountered during setup.
+
 ## Tools Installed
 
 * Git for Windows
